@@ -1,6 +1,6 @@
 ## 説明
 
-* 検証用のプロジェクトです。
+* 生活費算出用のプロジェクトです。
 
 ## Requirement
 
@@ -23,7 +23,7 @@
 
 
 プログラム実行、サーバー起動
-`streamlit run fukuri.py`
+`py start.py`
 
 
 実行結果
